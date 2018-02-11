@@ -27,6 +27,7 @@ import android.media.AudioManager;
 import android.net.Uri;
 import android.os.Bundle;
 import android.os.Vibrator;
+import android.provider.Settings;
 
 import com.android.internal.annotations.VisibleForTesting;
 
